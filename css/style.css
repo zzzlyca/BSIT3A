@@ -176,11 +176,10 @@ section {
 
 }
 .circle-images img {
-    width: 850px;
-    height: 850px;
-    margin-bottom: 20px;
+    width: 70%;
+    margin-bottom: 50px;
     transition: all 0.3s ease;
-    margin-left: 90px;
+    margin-left: 150px;
 }
 
 .about {
